@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\USER\\Leveltwo\\cowhut\\logs\\winton\\errors\\.b9d75e408e0f7c6bb33179f08a1eeb9e82fe44b1-audit.json",
+    "files": [
+        {
+            "date": 1690908328152,
+            "name": "C:\\Users\\USER\\Leveltwo\\cowhut\\logs\\winton\\errors\\raisedOn-01-August-2023-error.log",
+            "hash": "d6b04d4813b84c5dea45cf8c4867dd817e018455244a79c8e1fd3fb2f1ffe084"
+        },
+        {
+            "date": 1690917274327,
+            "name": "C:\\Users\\USER\\Leveltwo\\cowhut\\logs\\winton\\errors\\raisedOn-02-August-2023-error.log",
+            "hash": "883534c76b51bfd3f3e59cb610538f174dddf748c7e9d206cf3fadd1bdf569ed"
+        },
+        {
+            "date": 1691071630309,
+            "name": "C:\\Users\\USER\\Leveltwo\\cowhut\\logs\\winton\\errors\\raisedOn-03-August-2023-error.log",
+            "hash": "ef4ed9b3fe39460ccf931445e217648602f56772cb3ff34a123d76d1a05ca18e"
+        },
+        {
+            "date": 1691126477395,
+            "name": "C:\\Users\\USER\\Leveltwo\\cowhut\\logs\\winton\\errors\\raisedOn-04-August-2023-error.log",
+            "hash": "122d535bd3bf23d0538c7b2b636501c3dd0e8e855b72d686b86d2d6fc44f073c"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,11 @@
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  service: 'user-service',
+  label: 'Something Wrong!',
+  timestamp: '2023-07-28T19:26:41.076Z'
+}

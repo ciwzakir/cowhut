@@ -1,0 +1,42 @@
+{
+  message: 'Database Connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:09:38.188Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:09:38.210Z'
+}
+{
+  message: 'Database Connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:17:57.142Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:17:57.167Z'
+}
+{
+  message: 'Database Connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:22:51.845Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right info!',
+  timestamp: '2023-07-23T16:22:51.871Z'
+}
